@@ -1,0 +1,84 @@
+#section{
+    width: 75%;
+    margin: 0 auto;
+}
+
+
+#section-phone{
+    width: 100%;
+    background-color: #f5f5f5;
+    float: left;
+ 
+}
+.section-phone__wz{
+    height: 10vh;
+    line-height: 10vh;
+    font-size: 20px;
+}
+.section-phone_left{
+    width: 45%;
+}
+.section-phone_left img{
+    width: 100%;
+    height: 100%;
+}
+
+/*右边手机列表*/
+.section-phone__content{
+    width: 23%;
+    height: 40vh;
+    margin-left: 0.3%;
+    background-color: #ffffff;
+    float: left;
+    position: relative;
+    margin-left: 15px;
+    margin-bottom: 20px;
+}
+.section-phone__content a{
+    text-decoration: none;
+    color: #000;
+    text-align: center;
+}
+.section-phone__row1{
+    width: 99%;
+    height: 43vh;
+    float: left;
+}
+.content-images{
+    width:60%;
+    height: 45%;
+    margin-left: 22%;
+    margin-top: 20px;
+}
+.peijian-sjimg{
+    width: 100%;
+    height: 100%;
+}
+.content-link{
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+}
+.content-note{
+    width: 100%;
+    color: #aaaabc;
+    font-size: 12px;
+    margin-top: 1vh;
+}
+.content-price{
+    width: 100%;
+    color: orange;
+    margin-top: 1vh;
+}
+/*动画*/
+.section-phone__content:hover{
+    margin-top: -0.2vh;
+    box-shadow: 0 0 20px #cccccc;
+}
+
+
+
+
+
+
